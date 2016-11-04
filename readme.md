@@ -1,0 +1,1 @@
+Demo CRUD Application from http://way2php.com/crud-operations-using-jquery-ajax-laravel-5-3/
